@@ -1,0 +1,14 @@
+{
+  "name": "discr33t-pbis",
+  "version": "0.1.0",
+  "author": "Christopher Pisano",
+  "summary": "This module installs and configures PBIS on RHEL and RHEL derivitives",
+  "license": "Apache 2.0",
+  "source": "https://github.com/discreet/pbis",
+  "project_page": "https://github.com/discreet/pbis/README.md",
+  "issues_url": "https://github.com/discreet/pbis/issues",
+  "dependencies": [
+    {"version_requirement":">= 1.0.0","name":"puppetlabs-stdlib"}
+  ]
+}
+
